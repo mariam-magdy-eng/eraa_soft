@@ -56,6 +56,8 @@ double calculateAllProductsValue(List<Product> products) {
   return total;
 }
 
+//هو حضرتك المفروض مطلبتش نعمل حاجه ف ال mainبس انا عملت اس حاجه وخلاص
+
 void main() {
   Product p1 = Product(name: "pen", id: 2, price: 14.0, quantity: 3);
 
